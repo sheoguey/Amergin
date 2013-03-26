@@ -1,4 +1,4 @@
 Amergin
 =======
 
-Work that I perform in Cygwin (initially)
+Work with cyberalan8 to learn both git(hub,osis) and Ruby skills
