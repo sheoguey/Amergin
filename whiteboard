@@ -1,3 +1,19 @@
 This is the WHITEBOARD FILE:
 
-Add questions here:
+Things to REVIEW:
+1. What/where is "origin"
+2. What is "master"
+3. How to create a local branch (i.e. funky_chicken)
+4. How to push a local branch (other than master) to repo
+5. Be comfortable with:
+  git log
+  git status
+  git add
+  git commit (-m '<MESSAGE HERE>')
+  git branch
+  git checkout -b << new branch
+  BE CAREFUL: git checkout
+  git pull --rebase
+  git push (origin master)
+6. Create a pull request
+7. Merge in a pull request (or ask Alan to do that after it's pushed)
