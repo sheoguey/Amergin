@@ -4,6 +4,10 @@ Things to REVIEW:
 1. What/where is "origin"
 2. What is "master"
 3. How to create a local branch (i.e. funky_chicken)
+   From within the home directory of the repo to be branched, type "git branch <newbranchname>"
+   	to enter that branch, "git checkout newbranchname"
+         to enter any branch, "git checkout <branchname>"
+         to show branches   "git branch [-a or -r]"   without switch, it lists local branches
 4. How to push a local branch (other than master) to repo
 5. Be comfortable with:
   git log
@@ -21,3 +25,4 @@ Things to REVIEW:
 Questions:
 * different user.name and user.email for personal vs groupon usage on same laptop
 origin is the remote original repo(set of files); master is my local copy of origin that I pulled/copied
+
