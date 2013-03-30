@@ -17,3 +17,7 @@ Things to REVIEW:
   git push (origin master)
 6. Create a pull request
 7. Merge in a pull request (or ask Alan to do that after it's pushed)
+
+Questions:
+* different user.name and user.email for personal vs groupon usage on same laptop
+origin is the remote original repo(set of files); master is my local copy of origin that I pulled/copied
